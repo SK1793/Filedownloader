@@ -9,7 +9,7 @@
 
 This is an Android App For dowloading fles via  "URL".
 (Below Are some ScreenShots Of the App)
-
+<img src="Resources/1.png" width="100" height="100">
 ![Snapshot 1](Resources/1.png)
 ![Snapshot 1](Resources/2.png)
 ![Snapshot 1](Resources/3.png)
