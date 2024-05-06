@@ -13,16 +13,16 @@ This is an Android App For dowloading fles via  "URL".
 <div class="container">
   <div class="row">
     <div class="col-4">
-      <img src="Resources/1.png" width="400" height="800">
-      <img src="Resources/2.png" width="400" height="800">
-      <img src="Resources/3.png" width="400" height="800">
+      <img src="Resources/1.png" width="350" height="800">
+      <img src="Resources/2.png" width="350" height="800">
+      <img src="Resources/3.png" width="350" height="800">
     </div>    <div class="col-4">
-      <img src="Resources/4.png" width="400" height="800">
-      <img src="Resources/5.png" width="400" height="800">
-      <img src="Resources/6.png" width="400" height="800">
+      <img src="Resources/4.png" width="350" height="800">
+      <img src="Resources/5.png" width="350" height="800">
+      <img src="Resources/6.png" width="350" height="800">
     </div>    <div class="col-4">
-      <img src="Resources/7.png" width="400" height="800">
-      <img src="Resources/8.png" width="400" height="800">
+      <img src="Resources/7.png" width="350" height="800">
+      <img src="Resources/8.png" width="350" height="800">
     </div>
   </div>
 </div>
