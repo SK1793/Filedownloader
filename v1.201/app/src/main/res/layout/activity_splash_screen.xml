@@ -8,9 +8,6 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF">
 
-    <!--THIS IS IMAGEVIEW FOR OUR IMAGE IN SPLASH SCREEN-->
-    <!--YOU CAN ADD YOUR IMAGE TO DRAWABLES.
-        HERE geeksforgeeks IS THE NAME OF IMAGE-->
 
     <TextView
         android:id="@+id/SplashScreenText"
