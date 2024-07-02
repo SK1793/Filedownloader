@@ -12,6 +12,9 @@ This is an Android App For dowloading fles via  "URL".
 
 <div class="container">
   <div class="row">
+      <div class="col-3">
+      <img src="Resources/playstore.png" width="300" height="550">
+    </div>  
     <div class="col-3">
       <img src="Resources/1.png" width="300" height="550">
       <img src="Resources/2.png" width="300" height="550">
